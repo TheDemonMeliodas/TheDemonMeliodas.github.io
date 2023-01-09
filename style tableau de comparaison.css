@@ -1,0 +1,36 @@
+body {
+    background-image: url("carbon fiber.jpg");
+    background-size: cover;
+}
+
+header {
+    background: peru;
+    text-align: center;
+    width: 100%;
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+}
+
+nav li {
+    margin-right: 2cm;
+    font-family:sans-serif;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+}
+
+table {
+    color: white;
+    border: 2px solid white;
+    width: 50%;
+}
+
+td {
+    color: white;
+    border: 2px solid white;
+}
